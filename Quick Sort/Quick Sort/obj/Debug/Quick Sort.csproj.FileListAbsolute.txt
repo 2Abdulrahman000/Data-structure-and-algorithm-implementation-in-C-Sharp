@@ -1,0 +1,6 @@
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csprojResolveAssemblyReference.cache
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+E:\CS4\Term 2\Algorithms\Algorithms implemention in c#\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb

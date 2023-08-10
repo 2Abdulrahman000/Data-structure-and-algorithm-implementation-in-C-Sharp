@@ -1,0 +1,5 @@
+E:\CS2\Term 1\Data Structure Impemention\Queue\Queue\bin\Debug\Queue.exe.config
+E:\CS2\Term 1\Data Structure Impemention\Queue\Queue\bin\Debug\Queue.exe
+E:\CS2\Term 1\Data Structure Impemention\Queue\Queue\bin\Debug\Queue.pdb
+E:\CS2\Term 1\Data Structure Impemention\Queue\Queue\obj\Debug\Queue.exe
+E:\CS2\Term 1\Data Structure Impemention\Queue\Queue\obj\Debug\Queue.pdb

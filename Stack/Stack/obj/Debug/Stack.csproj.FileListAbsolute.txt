@@ -1,0 +1,6 @@
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\bin\Debug\Stack.exe.config
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\bin\Debug\Stack.exe
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\bin\Debug\Stack.pdb
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\obj\Debug\Stack.exe
+E:\CS2\Term 1\Data Structure Impemention\Stack\Stack\obj\Debug\Stack.pdb
